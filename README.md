@@ -32,7 +32,7 @@ Using Tailwindcss i have been able to work on designs much faster and i want to 
 
 ### What I learned
 
-Fith Project using TailwindCSS.So far so good.I was faced with one big issue relating to the background images.Since i had to add  two images it was difficult setting up it using tailwindcss.But i am glad i was able to figure it out as always.The code below was one important key thing i was able to identify regarding background images.I used arbituary method and set each tag with a background image since adding two images in one main tag was not working.I went ahead and set meda breakpoints for each display.The code snippet below shows the html and tailwind.config file making my background images a success.
+Fifth Project using TailwindCSS.So far so good.I was faced with one big issue relating to the background images.Since i had to add  two images it was difficult setting up it using tailwindcss.But i am glad i was able to figure it out as always.The code below was one important key thing i was able to identify regarding background images.I used arbituary method and set each tag with a background image since adding two images in one main tag was not working.I went ahead and set meda breakpoints for each display.The code snippet below shows the html and tailwind.config file making my background images a success.
 
 ```html
 <!--Background images using two Svg's and setting each display on media breakpoints-->
