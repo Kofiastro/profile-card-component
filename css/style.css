@@ -1379,6 +1379,14 @@ video {
   background-position: -15% -200%;
 }
 
+.bg-\[position\:150\%_300\%\] {
+  background-position: 150% 300%;
+}
+
+.bg-\[position\:10\%_300\%\] {
+  background-position: 10% 300%;
+}
+
 .bg-no-repeat {
   background-repeat: no-repeat;
 }
