@@ -20,8 +20,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [(https://github.com/Kofiastro/Product-preview-card-component)]
-- Live Site URL:[(https://creative-pothos-4005de.netlify.app/)]
+- Solution URL: [(https://github.com/Kofiastro/profile-card-component)]
+- Live Site URL:[(https://courageous-vacherin-eaf69f.netlify.app/)]
 
 ## My process
 Using Tailwindcss i have been able to work on designs much faster and i want to learn more by working on more projects at frontendmentor to help me be good at it.

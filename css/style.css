@@ -1251,6 +1251,126 @@ video {
   background-position: -40% -500%;
 }
 
+.bg-\[position\:-40\%_-300\%\] {
+  background-position: -40% -300%;
+}
+
+.bg-\[position\:120\%_400\%\] {
+  background-position: 120% 400%;
+}
+
+.bg-\[position\:-40\%_-200\%\] {
+  background-position: -40% -200%;
+}
+
+.bg-\[position\:-40\%_-100\%\] {
+  background-position: -40% -100%;
+}
+
+.bg-\[position\:-50\%_-200\%\] {
+  background-position: -50% -200%;
+}
+
+.bg-\[position\:-20\%_-200\%\] {
+  background-position: -20% -200%;
+}
+
+.bg-\[position\:-25\%_-200\%\] {
+  background-position: -25% -200%;
+}
+
+.bg-\[position\:-25\%_-250\%\] {
+  background-position: -25% -250%;
+}
+
+.bg-\[position\:-25\%_-20\%\] {
+  background-position: -25% -20%;
+}
+
+.bg-\[position\:120\%_500\%\] {
+  background-position: 120% 500%;
+}
+
+.bg-\[position\:120\%_300\%\] {
+  background-position: 120% 300%;
+}
+
+.bg-\[position\:130\%_400\%\] {
+  background-position: 130% 400%;
+}
+
+.bg-\[position\:10\%_400\%\] {
+  background-position: 10% 400%;
+}
+
+.bg-\[position\:160\%_400\%\] {
+  background-position: 160% 400%;
+}
+
+.bg-\[position\:110\%_400\%\] {
+  background-position: 110% 400%;
+}
+
+.bg-\[position\:110\%_300\%\] {
+  background-position: 110% 300%;
+}
+
+.bg-\[position\:110\%_200\%\] {
+  background-position: 110% 200%;
+}
+
+.bg-\[position\:110\%_250\%\] {
+  background-position: 110% 250%;
+}
+
+.bg-\[position\:100\%_400\%\] {
+  background-position: 100% 400%;
+}
+
+.bg-\[position\:90\%_400\%\] {
+  background-position: 90% 400%;
+}
+
+.bg-\[position\:1\%_400\%\] {
+  background-position: 1% 400%;
+}
+
+.bg-\[position\:100\%_500\%\] {
+  background-position: 100% 500%;
+}
+
+.bg-\[position\:100\%_00\%\] {
+  background-position: 100% 00%;
+}
+
+.bg-\[position\:100\%_300\%\] {
+  background-position: 100% 300%;
+}
+
+.bg-\[position\:180\%_400\%\] {
+  background-position: 180% 400%;
+}
+
+.bg-\[position\:-180\%_400\%\] {
+  background-position: -180% 400%;
+}
+
+.bg-\[position\:-25\%_-300\%\] {
+  background-position: -25% -300%;
+}
+
+.bg-\[position\:-25\%_-350\%\] {
+  background-position: -25% -350%;
+}
+
+.bg-\[position\:-25\%_-0\%\] {
+  background-position: -25% -0%;
+}
+
+.bg-\[position\:-25\%_-220\%\] {
+  background-position: -25% -220%;
+}
+
 .bg-no-repeat {
   background-repeat: no-repeat;
 }
