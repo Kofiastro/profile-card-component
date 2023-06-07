@@ -3,6 +3,10 @@ module.exports = {
   content: ['./*.html'],
   theme: {
     extend: {
+      backgroundImage:{
+        BackTop:"url('../images/bg-pattern-top.svg')",
+        BackBottom:"url('../images/bg-pattern-bottom.svg')"
+      },
       fontFamily: {
         Kumbh: ['Kumbh Sans', 'sans-serif'],
       },
@@ -10,7 +14,7 @@ module.exports = {
         Dark_cyan: 'hsl(185, 75%, 39%)',
         Very_dark_desaturated_blue: 'hsl(229, 23%, 23%)',
         Dark_grayish_blue: 'hsl(227, 10%, 46%)',
-        Dark_gray: 'hsl(0, 0%, 59%)',
+        Dark_gray: 'hsl(0, 0%, 59%)'
       }
     },
   },
