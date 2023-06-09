@@ -3,10 +3,6 @@ module.exports = {
   content: ['./*.html'],
   theme: {
     extend: {
-      backgroundImage:{
-        BackTop:"url('../images/bg-pattern-top.svg')",
-        BackBottom:"url('../images/bg-pattern-bottom.svg')"
-      },
       fontFamily: {
         Kumbh: ['Kumbh Sans', 'sans-serif'],
       },
